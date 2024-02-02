@@ -1,0 +1,10 @@
+property_id|address
+4778417|Lot 1 Meryla Road
+4993883|1 Peel Street
+4640009|11 Kaiyin Street
+4910660|Lot 336 Pillar Street
+4103916|12  Poulton Terrace
+4687160|86 Scott Street
+5179043|Lot 734 Vineyard Drive
+2782660|329 Wimbledon Road
+3582620|30 Auld Close
